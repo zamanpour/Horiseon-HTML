@@ -24,4 +24,4 @@ This page is tested and all menus are work correctly and the page exactly same a
 
 https://zamanpour.github.io/Horiseon-HTML/
 
-<img scr='assets/images/Horiseon-HTML.png'>
+<img src='assets/images/Horiseon-HTML.png'>
